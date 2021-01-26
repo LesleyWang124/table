@@ -1,0 +1,26 @@
+table{
+    font-size:12px;
+    color:white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #526a8a;
+    border-collapse: collapse;
+}
+
+table th {
+    font-size: 14px;
+    border-width: 3px;
+    padding: 8px 12px;
+    border-style: solid;
+    border-color: #426088;
+    background-color: #264e83;
+}
+
+table td {
+    color:#11407e;
+    border-width: 1px;
+    padding: 14px;
+    border-style:dashed;
+    border-color: #666666;
+    background-color: #afbac9;
+}
